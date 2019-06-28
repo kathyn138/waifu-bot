@@ -55,8 +55,8 @@ client.on('message', message => {
     //embed for help command
 
     const helpEmbed = new Discord.RichEmbed()
-      .setColor('#0099ff')
-      .setAuthor('Waifu Help', 'https://i.imgur.com/wSTFkRM.png')
+      .setColor('#ffb0f1')
+      .setAuthor('Waifu Help', 'https://cdn.discordapp.com/attachments/592900917486026752/594085786337411092/Untitled-1.png')
       .setDescription('Command list. For a detailed guide on the usage of Waifu, please check the [GitHub repo](https://github.com/kathyn262/waifubot).')
       .addField('Instant Interaction Commands:', '`.w morning` , `.w evening` , `.w feed`')
       .addField('Scheduled Interaction Commands:', '`.w morning set` , `.w evening set`')
