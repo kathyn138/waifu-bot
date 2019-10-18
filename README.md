@@ -2,6 +2,8 @@
 
 Waifu is a bot made for Discord Hack Week. Features include: four special waifus to choose from, heartfelt instant and scheduled greetings from your waifu, and delicious mouth-watering food made by your waifu. 
 
+![](demo.gif) ![](demo-2.gif)
+
 Current waifus: 
 
 * Asuna Yuuki from Sword Art Online
